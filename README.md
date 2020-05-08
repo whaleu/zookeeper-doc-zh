@@ -2,6 +2,8 @@
 
 **注意：** 该文档基于官方 `3.6` 版本
 
+[官网]([https://zookeeper.apache.org/doc/current/index.html](https://zookeeper.apache.org/doc/current/index.html))
+
 [TOC]
 
 # 概述
